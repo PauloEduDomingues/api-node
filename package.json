@@ -11,5 +11,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "postgres": "^3.4.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
